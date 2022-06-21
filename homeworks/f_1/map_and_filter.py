@@ -29,4 +29,3 @@ lst1 = [1, 1, 1, 1, 1]
 lst2 = [2, 2, 2, 2, 2]
 lst3 = [1, 2, 3, 4, 5]
 print(map3(sum, lst1, lst2, lst3))
-
