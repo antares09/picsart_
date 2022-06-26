@@ -3,7 +3,7 @@ import copy
 
 def int_len(n):
     count = 0
-    num = copy.copy(n)
+    num = n
     while num > 0:
         count += 1
         num //= 10
